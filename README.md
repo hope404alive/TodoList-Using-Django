@@ -18,7 +18,7 @@ The Django To-Do List is a web application that allows users to manage their tas
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/hope404alive/TodoList-Using-Django.git`
-2. Navigate to the project directory: `cd django-todo-list`
+2. Navigate to the project directory: `cd TodoList-Using-Django`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run database migrations: `python manage.py migrate`
 
